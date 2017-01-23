@@ -19,6 +19,17 @@ following are four projects:
 
 ### Introduction 
 
+introduction of myself:
+
+Wei Zhou
+
+University of Delaware
+
+Major:Electrical & computer Engineering
+
+Master 
+
+
 The project mentioned above are all in C++ style, which involve the knowledge of array, database, stack, encryption algorithm, function random(), libraries, header file, hash and so on.
 
 I feel a sense of fullfillment when I finish this homepage. On my own homepage, I can show all of the project I finished to people, I can see my improvement after finishing these projects, from markovsentence to geemail, I learn a lot from the class and after class, and I also owm DNS myself.
