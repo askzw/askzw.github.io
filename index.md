@@ -3,12 +3,19 @@
 following are four projects:
 # 1.[markovsentence](http://markovsentence.zwhedegehog.us/)
 
+  Markovian-tweets generator
+ 
 # 2.[polynomial](http://polynomial.zwhedegehog.us/)
 
+  Polynomial addition and multiplication program
+ 
 # 3.[minesweeper](http://minesweeper.zwhedegehog.us/)
+
+  Traditional game
 
 # 4.[geemail](http://geemail.zwhedegehog.us/)
 
+  Secure asynchronous (same-machine) message platform.
 
 ### Introduction 
 
